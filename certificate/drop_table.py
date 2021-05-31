@@ -1,1 +1,0 @@
-query = "DROP TABLE IF EXISTS"
